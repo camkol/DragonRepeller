@@ -8,4 +8,5 @@
 
 ## Notes
 
--Finished javaScript
+- Finished javaScript
+- Made Responsive
