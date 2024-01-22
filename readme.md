@@ -7,3 +7,5 @@
 3. JavaScript
 
 ## Notes
+
+-Finished javaScript
