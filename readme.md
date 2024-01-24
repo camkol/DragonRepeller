@@ -13,3 +13,4 @@
 - Made Responsive
 - Added SASS
 - Adjusted buttons
+- Installed language switch
