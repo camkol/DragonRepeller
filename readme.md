@@ -12,3 +12,4 @@
 - Finished javaScript
 - Made Responsive
 - Added SASS
+- Adjusted buttons
