@@ -4,9 +4,11 @@
 
 1. HTML
 2. CSS
+   - SASS
 3. JavaScript
 
 ## Notes
 
 - Finished javaScript
 - Made Responsive
+- Added SASS
