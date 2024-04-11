@@ -56,8 +56,6 @@ This helped me with my perspective of function creation. I really gained the out
 
 I want to later to include images and animation.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
 - Website - [Cameron Howze](https://camkol.github.io/)
